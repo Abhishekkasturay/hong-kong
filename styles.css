@@ -13,11 +13,8 @@ body {
   width: 900px;
   margin: 0 auto;
   border-radius: 40px;
-  padding: 20px;
-}
-
-.container div {
-  margin-bottom: 20px;
+  padding: 15px;
+  letter-spacing: 1px;
 }
 
 h1 {
@@ -27,21 +24,22 @@ h1 {
 h2 {
   background-color: white;
   color: #158e9e;
-  padding: 20px;
+  padding: 15px;
 }
 
 h3 {
   background-color: #027585;
   color: white;
-  padding: 20px;
+  padding: 15px;
   text-decoration: underline;
-  font-size: larger;
+  font-size: x-large;
 }
 
 p {
   color: #158e9e;
-  padding: 20px;
-  text-decoration: underline;
+  padding: 15px;
+  font-weight: 600;
+  font-size: larger;
 }
 
 .box1 {
@@ -75,4 +73,6 @@ span {
 h4 {
   background-color: white;
   font-weight: 900;
+  letter-spacing: 2px;
+  font-size: x-large;
 }
